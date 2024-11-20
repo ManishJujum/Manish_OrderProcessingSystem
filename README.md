@@ -52,7 +52,22 @@ Response: Order object, including a list of products and the total price.
 ## Additional Notes for Reviewers
 Logging:
 This project uses Serilog for logging API requests and errors to the console.
+
 Logs are helpful in tracking requests and diagnosing validation or database issues.
 
 Data Validation:
 Basic validation is implemented to ensure valid data is passed to endpoints (e.g., existing customerId and valid productIds for orders).
+
+
+
+---
+
+## **Thanks**
+
+If you find this repository useful, then consider to leave a ⭐.
+
+Connect with me
+
+👉 LinkedIn: https://www.linkedin.com/in/manish-jujum-706190191
+
+Thanks a lot 🙂🙂
